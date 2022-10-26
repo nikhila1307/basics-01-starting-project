@@ -4,3 +4,4 @@ function add(){
     outputResult(result, "")
 }
 addBtn.addEventListener('click', add)
+addBtn.addEventListener('click', add)
